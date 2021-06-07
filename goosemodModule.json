@@ -1,0 +1,10 @@
+{
+  "main": "index.js",
+  "version": "0.0.0",
+
+  "name": "AuroraGSI",
+  "description": "Port of AuroraGSI for GooseMod.",
+  "tags": ["customization"],
+  "authors": ["189079074054995969"],
+  "images": []
+}
